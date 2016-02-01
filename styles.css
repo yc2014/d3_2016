@@ -1,0 +1,40 @@
+.title
+{
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    padding: 2%;
+}
+
+.description
+{
+	color: darkgray; 
+	font-size: 15px;
+	border-left: 4px solid;
+	border-color: black;
+	padding: 2%;
+	max-width: 75%;
+	background-color: lightyellow;
+	text-align: justify;
+}
+
+.chart {
+    width: 500px;
+    height: 500px;
+}
+
+.circ1 {
+    stroke: green; 
+    fill: white;
+    stroke-width: 5;
+}
+.ellipse1{
+	stroke: black; 
+    fill: gray;
+    stroke-width: 5;
+}
+.rect{
+	stroke: black;
+	stroke-width:3;
+	fill: yellow;
+}
